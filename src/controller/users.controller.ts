@@ -22,5 +22,3 @@ export const getUserInformationsController = async (req: Request, res: Response)
     return res.status(200).json(instanceToPlain(user))
 
 }
-
-export const getTechnologiesUserController = async (req: Request, res: Response) => {}

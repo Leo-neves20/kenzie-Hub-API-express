@@ -14,7 +14,7 @@ export const createUserSchema = yup.object().shape({
         .matches( /[A-Z]/,  "it should have  one upercase letter at leats  ")
         .matches( /(\W|_)/, "it should have one special character at least ")
         .matches( /(\d)/,   "it should have one number at least            ")
-        .matches(/.{8,}/,   "it should have 5 gigits at least              ")
+        .matches(/.{8,}/,   "it should have eight digits at least              ")
         .required(),
     confirm_password: yup
         .string()
