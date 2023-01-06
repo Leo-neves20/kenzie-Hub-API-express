@@ -1,6 +1,6 @@
 # 🛠️ :cloud: Inicialização
 
-:white_check_mark: 1. **Fazer o clone do repositório neste link:** https://github.com/Leo-neves20/kenzie-Hub-API-express.git
+:white_check_mark: 1. **Fazer o clone do repositório neste link:** https://github.com/Leo-neves20/kenzie-Hub-API-express.git <br>
 :white_check_mark: 2. **Abra o terminal e dê o comando "yarn" ou "npm i"**
 :white_check_mark: 3. **Faça uma copia do arquivo ".env.exemples" e dê o nome de ".env"**
 :white_check_mark: 4. **Crie uma banco postgres**
