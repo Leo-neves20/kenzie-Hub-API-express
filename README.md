@@ -3,7 +3,7 @@
 1. Fazer o clone do repositório neste link: https://github.com/Leo-neves20/kenzie-Hub-API-express.git
 2. abrir o terminal e dê o comando "yarn" ou "npm i"
 3. Dê um "yarn dev" ou se usar o npm, Dê um "npm dev"
-4. Faça uma copia do arquivi ".env.exemples" e dê o nome de ".env"
+4. Faça uma copia do arquivo ".env.exemples" e dê o nome de ".env"
 5. crie uma banco postgres
 6. preencha os campos com os dados do seu banco de dados postgres no arquivo ".env"
 
