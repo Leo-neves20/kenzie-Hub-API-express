@@ -1,4 +1,7 @@
-# 🛠️:cloud: Inicialização
+
+# 💻kenzie-Hub-API
+
+## 🛠️:cloud: Inicialização
 
 :white_check_mark: 1. **Fazer o clone do repositório neste link:** https://github.com/Leo-neves20/kenzie-Hub-API-express.git <br>
 :white_check_mark: 2. **Abra o terminal e dê o comando "yarn" ou "npm i"** <br>
@@ -9,8 +12,7 @@
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-Pronto, agora seu banco de dados está conectado com sua Api. A Url base será "https://localhost:3001"
-# 💻kenzie-Hub-API
+:heavy_exclamation_mark: **Pronto, agora seu banco de dados está conectado com sua Api. A Url base será** "https://localhost:3001" :heavy_exclamation_mark:
 
 🟢 **POST - /user/register**
 
