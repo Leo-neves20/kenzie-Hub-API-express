@@ -1,6 +1,18 @@
+# :cloud: Inicialização
+
+1. Fazer o clone do repositório neste link: https://github.com/Leo-neves20/kenzie-Hub-API-express.git
+2. abrir o terminal e dê o comando "yarn" ou "npm i"
+3. Dê um "yarn dev" ou se usar o npm, Dê um "npm dev"
+4. Faça uma copia do arquivi ".env.exemples" e dê o nome de ".env"
+5. crie uma banco postgres
+6. preencha os campos com os dados do seu banco de dados postgres no arquivo ".env"
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Pronto, agora seu banco de dados está conectado com sua Api. A Url base será "https://localhost:3001"
 # 💻kenzie-Hub-API
 
-🟢 **POST - /register**
+🟢 **POST - /user/register**
 
 
 * Rota para fazer registro do usuário. ***Senha deve conter 8 dígitos, deve conter uma letra maiúscula, deve conter uma letra minúscula, deve conter um carácter especial, deve conter um número***
@@ -54,7 +66,7 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-🔵 **GET - /data**
+🔵 **GET - /user/data**
 
 * Lista os dados do usuário logado
 
@@ -74,7 +86,7 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-🟢 **POST - /techs**
+🟢 **POST - /techs/create**
 
 * Cria tecnologia 
 
