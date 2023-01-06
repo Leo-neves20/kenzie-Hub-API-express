@@ -1,4 +1,4 @@
-# :cloud: Inicialização
+# 🛠️ :cloud: Inicialização
 
 1. Fazer o clone do repositório neste link: https://github.com/Leo-neves20/kenzie-Hub-API-express.git
 2. abrir o terminal e dê o comando "yarn" ou "npm i"
